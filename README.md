@@ -24,6 +24,10 @@
 
 ## Featured Projects
 
+### [DocCare Pro — Clinic Management & Billing](https://github.com/kunalsontakke9850/doccare-pro)
+
+I built DocCare Pro as a browser app for scan entry, fee tracking, expenses, doctor summaries, and printable bills. [View the source](https://github.com/kunalsontakke9850/doccare-pro) · [Try the synthetic-data demo](https://kunalsontakke9850.github.io/doccare-pro/).
+
 ### [ClinicSuite — Clinic Management & Digital Prescription Platform](https://github.com/kunalsontakke9850/clinic-management-system)
 
 Desktop clinic-management software built with Electron, Node.js, and JavaScript. It supports patient records, appointments, prescriptions, billing, payments, expenses, role-based access, offline-first workflows, automated testing, Docker verification, and GitHub Actions.
