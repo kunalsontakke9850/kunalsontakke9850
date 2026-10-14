@@ -26,15 +26,19 @@
 
 ### [DocCare Pro — Clinic Management & Billing](https://github.com/kunalsontakke9850/doccare-pro)
 
-I built DocCare Pro as a browser app for scan entry, fee tracking, expenses, doctor summaries, and printable bills. [View the source](https://github.com/kunalsontakke9850/doccare-pro) · [Try the synthetic-data demo](https://kunalsontakke9850.github.io/doccare-pro/).
+A browser-based clinic workflow app for scan entry, fee tracking, expenses, doctor summaries, and printable bills. The public demo uses fictional records and saves edits only in the current browser. [View the source](https://github.com/kunalsontakke9850/doccare-pro) · [Try the demo](https://kunalsontakke9850.github.io/doccare-pro/).
 
 ### [ClinicSuite — Clinic Management & Digital Prescription Platform](https://github.com/kunalsontakke9850/clinic-management-system)
 
-Desktop clinic-management software built with Electron, Node.js, and JavaScript. It supports patient records, appointments, prescriptions, billing, payments, expenses, role-based access, offline-first workflows, automated testing, Docker verification, and GitHub Actions.
+An Electron desktop application for patient records, appointments, digital prescriptions, reception, billing, payments, and expenses. It includes offline-first workflows, role-aware access, automated tests, Docker verification, and GitHub Actions. It runs locally and is not a hosted web app.
+
+### [NovaFlow — Project Management Workspace Concept](https://github.com/kunalsontakke9850/novaflow-landing-page)
+
+An interactive React and TypeScript portfolio concept for planning projects, managing tasks, and tracking progress. The live preview uses sample data only; it is not connected to a product backend. [View the source](https://github.com/kunalsontakke9850/novaflow-landing-page) · [Visit the live demo](https://novaflow-landing-page.netlify.app/).
 
 ### [Capgemini Software Engineering Training](https://github.com/kunalsontakke9850/Capgemini)
 
-Java and Selenium training work covering programming fundamentals, browser automation, software testing, debugging, and structured technical assignments.
+Java and Selenium training exercises covering browser automation, JUnit testing, Maven project structure, explicit waits, multi-window handling, and Page Object Model fundamentals.
 
 ## Technical Skills
 
@@ -46,6 +50,14 @@ Java and Selenium training work covering programming fundamentals, browser autom
 ![SQL](https://img.shields.io/badge/SQL-20232A?style=flat-square&logo=postgresql&logoColor=4169E1)
 ![C](https://img.shields.io/badge/C-20232A?style=flat-square&logo=c&logoColor=A8B9CC)
 ![C++](https://img.shields.io/badge/C++-20232A?style=flat-square&logo=cplusplus&logoColor=00599C)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=flat-square&logo=typescript&logoColor=3178C6)
+![Vite](https://img.shields.io/badge/Vite-20232A?style=flat-square&logo=vite&logoColor=646CFF)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-20232A?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![Vitest](https://img.shields.io/badge/Vitest-20232A?style=flat-square&logo=vitest&logoColor=6E9F18)
 
 **Development & Automation**
 
@@ -64,7 +76,7 @@ Java and Selenium training work covering programming fundamentals, browser autom
 
 ## Current Focus
 
-- Building production-ready desktop and automation software
+- Building reliable desktop and web applications for practical workflows
 - Strengthening backend development, SQL, testing, and deployment skills
 - Creating software that solves real operational problems
 
